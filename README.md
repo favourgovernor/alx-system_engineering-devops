@@ -1,1 +1,1 @@
-‘This repository contains solutions to shell tasks asssignment’
+0x01-shell_permissions
